@@ -1,0 +1,6 @@
+langchain==0.3.19
+langchain-openai==0.3.0
+langchain-community==0.3.14
+langgraph==0.2.64
+oci==3.50.2
+Python==3.11.9
